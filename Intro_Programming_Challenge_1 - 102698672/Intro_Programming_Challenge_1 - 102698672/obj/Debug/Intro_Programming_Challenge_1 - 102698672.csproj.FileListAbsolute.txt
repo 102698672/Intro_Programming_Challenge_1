@@ -1,0 +1,7 @@
+C:\Users\102698672\source\repos\Intro_Programming_Challenge_1 - 102698672\Intro_Programming_Challenge_1 - 102698672\bin\Debug\Intro_Programming_Challenge_1 - 102698672.exe.config
+C:\Users\102698672\source\repos\Intro_Programming_Challenge_1 - 102698672\Intro_Programming_Challenge_1 - 102698672\bin\Debug\Intro_Programming_Challenge_1 - 102698672.exe
+C:\Users\102698672\source\repos\Intro_Programming_Challenge_1 - 102698672\Intro_Programming_Challenge_1 - 102698672\bin\Debug\Intro_Programming_Challenge_1 - 102698672.pdb
+C:\Users\102698672\source\repos\Intro_Programming_Challenge_1 - 102698672\Intro_Programming_Challenge_1 - 102698672\obj\Debug\Intro_Programming_Challenge_1 - 102698672.csproj.CoreCompileInputs.cache
+C:\Users\102698672\source\repos\Intro_Programming_Challenge_1 - 102698672\Intro_Programming_Challenge_1 - 102698672\obj\Debug\Intro_Programming_Challenge_1 - 102698672.exe
+C:\Users\102698672\source\repos\Intro_Programming_Challenge_1 - 102698672\Intro_Programming_Challenge_1 - 102698672\obj\Debug\Intro_Programming_Challenge_1 - 102698672.pdb
+C:\Users\102698672\source\repos\Intro_Programming_Challenge_1 - 102698672\Intro_Programming_Challenge_1 - 102698672\obj\Debug\Intro_Programming_Challenge_1 - 102698672.csprojAssemblyReference.cache
